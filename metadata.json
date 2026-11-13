@@ -1,0 +1,6 @@
+{
+  "name": "Model United Nations",
+  "description": "A youth-led Model United Nations conference bringing delegates together to debate, negotiate and build coalitions. Details TBA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
