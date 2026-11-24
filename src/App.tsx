@@ -365,7 +365,7 @@ export default function App() {
 
             {/* Confident one-line subheading */}
             <p className="text-lg sm:text-2xl text-[#b9b296] font-normal tracking-tight mt-4 sm:mt-5 max-w-xl">
-              Dates TBA · Venue TBA
+              18-20 March 2027 · Riyadh, Saudi Arabia
             </p>
 
             {/* Two pill buttons */}
@@ -419,7 +419,7 @@ export default function App() {
                 </div>
                 <div className="mt-8 flex items-end justify-between">
                   <span className="text-5xl sm:text-6xl font-bold tracking-tight text-[#ede6ca]/80">
-                    2026
+                    2027
                   </span>
                   <span className="text-xs text-[#b9b296] uppercase tracking-wider">
                     Inaugural Session
@@ -685,12 +685,12 @@ export default function App() {
                     Dates and venue.
                   </h3>
                   <p className="text-sm sm:text-base text-[#b9b296] mt-3 leading-relaxed">
-                    Host institution, conference halls, and schedule to be announced.
+                    18-20 March 2027 in Riyadh. Host institution and conference halls to be announced.
                   </p>
                 </div>
                 <div className="mt-8 flex items-baseline justify-between border-t border-[#ede6ca]/10 pt-4">
                   <span className="text-xs uppercase tracking-wider text-[#b9b296]">Location</span>
-                  <span className="text-3xl font-bold text-[#ede6ca]">TBA</span>
+                  <span className="text-3xl font-bold text-[#ede6ca]">Riyadh</span>
                 </div>
               </div>
             </div>
@@ -732,8 +732,8 @@ export default function App() {
                 <span className="text-xs font-semibold tracking-wider uppercase text-[#b9b296]">
                   Location
                 </span>
-                <span className="text-3xl font-bold text-[#ede6ca] my-3">TBA</span>
-                <span className="text-xs text-[#b9b296]">Host city & venue</span>
+                <span className="text-3xl font-bold text-[#ede6ca] my-3">Riyadh</span>
+                <span className="text-xs text-[#b9b296]">Saudi Arabia · Venue TBA</span>
               </div>
             </div>
           </div>
@@ -873,7 +873,7 @@ export default function App() {
             </div>
 
             <p className="text-xs text-[#b9b296] tracking-wide">
-              WILLOW MUN · 2026 · All details TBA
+              WILLOW MUN · 18-20 MARCH 2027 · RIYADH, SAUDI ARABIA
             </p>
 
             <div className="pt-2">
